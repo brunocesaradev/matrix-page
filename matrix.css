@@ -1,0 +1,45 @@
+body{
+    background-color: #000;
+    background-image: url(/assets/image/fundo_neo.jpg);
+    background-repeat: repeat-y;
+    background-attachment:fixed;
+    background-position: right;
+    width: 88%;
+
+}
+h1{
+    font-family: Arial;
+    color: #fff;
+    font-style: italic;
+    text-align: left;
+    background-image: url(/assets/image/fundo_matrix.jpg);
+    background-repeat: repeat-y;
+    background-attachment:fixed;
+    background-size: 100%; 
+    background-position: right;   
+}
+#h1bottom{
+    text-align: right; 
+}
+p{
+    font-family: verdana;
+    color: lightgreen;
+    letter-spacing: 1.2px;
+    max-width: 88%;
+    text-align: justify;
+}
+/* Estilos para telas pequenas (até 768px de largura) */
+@media screen and (max-width: 768px) {
+    /* Estilos específicos para telas pequenas */
+  }
+  
+  /* Estilos para telas médias (769px a 1024px de largura) */
+  @media screen and (min-width: 769px) and (max-width: 1024px) {
+    /* Estilos específicos para telas médias */
+  }
+  
+  /* Estilos para telas grandes (mais de 1024px de largura) */
+  @media screen and (min-width: 1025px) {
+    /* Estilos específicos para telas grandes */
+  }
+  
