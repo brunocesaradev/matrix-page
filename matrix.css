@@ -1,6 +1,6 @@
 body{
     background-color: #000;
-    background-image: url(/assets/image/fundo_neo.jpg);
+    background-image: url(fundo_neo.jpg);
     background-repeat: repeat-y;
     background-attachment:fixed;
     background-position: right;
