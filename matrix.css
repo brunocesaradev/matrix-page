@@ -12,7 +12,7 @@ h1{
     color: #fff;
     font-style: italic;
     text-align: left;
-    background-image: url(/assets/image/fundo_matrix.jpg);
+    background-image: url(fundo_matrix.jpg);
     background-repeat: repeat-y;
     background-attachment:fixed;
     background-size: 100%; 
